@@ -1,10 +1,9 @@
-# Astrophysics_Beginner_guide
-"A curated collection of Python tools, NASA datasets for aspiring astrophysicists."
+# Astrophysics_Beginner_projects
 # 🌌 Astrophysics & Python: A Beginner's Map
-Welcome! I am building this repository to document my journey toward a PhD in Astrophysics. 
+Welcome! I am building this repository to document my journey toward Astrophysics. 
 
 ## 🔭 Recommended Datasets
-As a researcher, I’ve found these sources most useful for Python analysis:
+As an aspiring researcher, I’ve found these sources most useful for Python analysis:
 * [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) - Great for Lightkurve practice.
 * [SDSS SkyServer](https://skyserver.sdss.org/) - Real galaxy spectra data.
 
