@@ -1,6 +1,6 @@
 # Astrophysics_Beginner_projects
 # 🌌 Astrophysics & Python: A Beginner's Map
-Welcome! I am building this repository to document my journey toward Astrophysics. 
+Welcome! I am building this repository to document my journey toward Astrophysics with the assistance of AI .
 
 ## 🔭 Recommended Datasets
 As an aspiring researcher, I’ve found these sources most useful for Python analysis:
