@@ -1,0 +1,9 @@
+**EXOPLANET DATA ANALYSIS PROJECT BY A BEGINNER**
+Formatted a custom CSV file (`exoplanets.csv`) containing real-world exoplanet data (names, discovery methods, distances, and masses).
+Used Pandas properties like shapes , data types and describe() .
+Wrote scripts to isolate planets discovered via specific methods like the *Transit Method*.
+Used Matplotlib to plot discovery years agains distance from earth.
+### Scientific Conclusion:
+By analyzing and plotting the data , I successfully identified **Proxima Centauri b** as the closest exoplanet to Earth in the dataset, located just 4.2 light-years away.
+
+Note: Developed this project using AI as a collaborative learning tool to master foundational data science workflows.
