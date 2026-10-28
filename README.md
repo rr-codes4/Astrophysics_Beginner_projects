@@ -4,7 +4,7 @@ Welcome! I am building this repository to document my journey towards Astrophysi
 A library of my work driven by my curiosity!
 ## My works
 **Milestone 1** Used the link to a raw link file from JWST MIRI data and analyzed the output
-**Milestone 2** Used the same link and visualized the data.The process are detailed in the file itself 
+**Milestone 2** Used the same link and visualized the data.The process are detailed in the file itself > (See the the real file)[.\Milestone_2_Visualizing_JWST_MIRI_Data!.ipynb]
 **Data analysis beginner-friendly line of code** Combined Polar,Pandas,Matplotlib,Numpy. Featuring their most basic line of code.
 ## Recommended Datasets
 As an aspiring researcher, I’ve found these sources most useful for Python analysis:
